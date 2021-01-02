@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802716704438",
+    "firebase_url": "https://university-information-s-47f46.firebaseio.com",
+    "project_id": "university-information-s-47f46",
+    "storage_bucket": "university-information-s-47f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802716704438:android:801449780a6e0810379017",
+        "android_client_info": {
+          "package_name": "com.example.university_information_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802716704438-ghpkt3fb1vmmjf9kebtk1p1an6ov94ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7Z3P3xwOrxb2frGDsrpEDozM2gLy0lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802716704438-ghpkt3fb1vmmjf9kebtk1p1an6ov94ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
